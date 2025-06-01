@@ -1,0 +1,12 @@
+{
+    "en": {
+        "question": "Were you dropped on your head as a child?",
+        "answ-yes": "Of course!",
+        "answ-no": "Of course not!"
+    },
+    "ru": {
+        "question": "Вас в детстве роняли головой вниз?",
+        "answ-yes": "Конечно!",
+        "answ-no": "Еблан ?!"
+    }
+}
